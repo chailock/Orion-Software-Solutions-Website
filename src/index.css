@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@keyframes twinkle {
+  0%, 100% { opacity: 0.75; transform: scale(1); }
+  50%      { opacity: 1; transform: scale(1.18); }
+}
+
+@keyframes shoot {
+  0%   { transform: translateX(-150%) rotate(-38deg); opacity: 0; }
+  15%  { opacity: 0.95; }
+  85%  { opacity: 0.95; }
+  100% { transform: translateX(220%) rotate(-38deg); opacity: 0; }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.55; }
+  50%      { opacity: 0.9; }
+}
+
+.animate-twinkle    { animation: twinkle 3s infinite ease-in-out; }
+.animate-shoot      { animation: shoot 8s infinite linear; }
+.animate-pulse-slow { animation: pulse 10s infinite ease-in-out; }
+
+.delay-700   { animation-delay: 0.7s; }
+.delay-1200  { animation-delay: 1.2s; }
