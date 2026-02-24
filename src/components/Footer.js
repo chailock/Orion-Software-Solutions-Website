@@ -29,7 +29,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-10 lg:gap-8 mb-12">
           {/* Brand */}
           <div className="lg:col-span-1">
-            <h3 className="text-2xl font-bold bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400 bg-clip-text text-transparent mb-4">Orion</h3>
+            <h3 className="text-2xl font-bold bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400 bg-clip-text text-transparent mb-4">Orion Software Solutions</h3>
             <p className="text-slate-400 text-sm leading-relaxed">Enterprise software and AI solutions crafted in South Africa, delivered worldwide.</p>
             <div className="flex items-center gap-4 mt-6">
               <a href="https://github.com/orion-software" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-indigo-400 transition-colors"><FaGithub size={20} /></a>
