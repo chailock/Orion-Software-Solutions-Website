@@ -1,0 +1,29 @@
+# Orion Software Solutions
+> Enterprise software and AI development in South Africa
+
+## About
+Founded in 2025, Orion Software Solutions delivers world-class custom software, AI solutions, and digital transformation services from Volksrust, South Africa. 50+ successful projects delivered.
+
+## Services
+- Custom Software Development: React, TypeScript, Spring Boot, microservices
+- AI & Machine Learning: Chatbots, predictive analytics, computer vision
+- Mobile App Development: React Native, Expo, iOS/Android
+- Backend & API Services: Spring Boot, JWT, PayFast integration
+- Cloud Deployment: AWS, Netlify, CI/CD
+- UI/UX & Optimization: Responsive design, 3D galleries
+
+## Key Case Studies
+- BoozeInDoors: On-demand delivery platform (40% revenue increase)
+- AI Customer Support Chatbot: 40% reduction in support tickets
+- SecurePay API: R5M+ processed with 99.99% uptime
+- 3D Artist Gallery: Featured on Awwwards
+
+## Contact
+- Email: info@orionsoftware.co.za
+- Location: Volksrust, Mpumalanga, South Africa
+- Response time: 24 hours
+
+## Social
+- GitHub: https://github.com/orion-software
+- LinkedIn: https://linkedin.com/company/orion-software
+- Twitter: https://twitter.com/orion_software
